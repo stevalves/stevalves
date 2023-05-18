@@ -4,7 +4,7 @@
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sleeping-on-the-developers-desk-4737555-3937001.png" style="width: 240px;" align="right"/>
 
-### Read in [English], [Portuguese]
+### Read in [English](https://github.com/stevalves/stevalves/blob/main/README.md), [Portuguese](https://github.com/stevalves/stevalves/blob/main/README.pt.md)
 
 ## 📑 About Me:
 
