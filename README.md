@@ -4,6 +4,8 @@
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sleeping-on-the-developers-desk-4737555-3937001.png" style="width: 240px;" align="right"/>
 
+### Read in [English], [Portuguese]
+
 ## 📑 About Me:
 
 - <p> 📖 I'm currently learning: <strong>NextJS</strong></p>
@@ -35,17 +37,4 @@
 <br/>
 <br/>
 
-## 📊 GitHub Stats:
-
-<div align="center">  
-  <a href="https://githube.com/stevalves">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stevalves&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=DEG,172026,027373&title_color=5FCDD9&text_color=fff&icon_color=399FAA" alt="Estevao Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevalves&layout=compact&hide_border=true&langs_count=7&bg_color=DEG,027373,172026&title_color=5FCDD9&text_color=fff&icon_color=399FAA" />
-</div>
-<br/>
-
-## 🏆 GitHub Trophies:
-
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=stevalves&theme=algolia&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+![Estevão github stats](https://github-readme-stats.vercel.app/api/?username=stevalves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
