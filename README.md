@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&&color=gradient&customColorList=4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Estevão+Santos;I'm+a+Front+End+developer;Welcome!+💚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90&size=35&center=true&vCenter=true&width=1000&lines="Hello+World";My+name+is+Estevão+Santos;Nice+to+meet+you!+💚)](https://git.io/typing-svg)
 
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/cat-sleeping-on-the-developers-desk-4737555-3937001.png" style="width: 240px;" align="right"/>
 
