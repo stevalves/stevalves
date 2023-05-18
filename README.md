@@ -6,10 +6,10 @@
 
 ## 📑 About Me:
 
-- <p> 🌱 I'm currently learning: <strong>NextJS</strong></p>
-- <p> 🎯 my current goal: <strong>Full Stack Developer</strong></p>
-- <p> 📫 how to reach me: <strong>ealves1710@hotmail.com</strong></p>
-- <p> 💙 <strong>Love</strong> learn and challenge myself.</p>
+- <p> 📖 I'm currently learning: <strong>NextJS</strong></p>
+- <p> 🤩 My current goal: <strong>be a Full Stack Developer</strong></p>
+- <p> 💪 A <strong>healthy</strong> mind in a <strong>healthy</strong> body.</p>
+- <p> 🎻 I recently started learning the <strong>violin</strong>.</p>
 <br/>
 
 ## 💻 Skills:
