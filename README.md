@@ -9,9 +9,6 @@
 ## 📑 About Me:
 
 - <p> 📖 I'm currently learning: <strong>NextJS</strong></p>
-- <p> 🤩 My current goal: <strong>be a Full Stack Developer</strong></p>
-- <p> 💪 A <strong>healthy</strong> mind in a <strong>healthy</strong> body.</p>
-- <p> 🎻 I recently started learning the <strong>violin</strong>.</p>
 <br/>
 
 ## 💻 Skills:
