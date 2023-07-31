@@ -9,9 +9,6 @@
 ## 📑 Sobre mim:
 
 - <p> 📖 Estou atualmente estudando: <strong>NextJS</strong></p>
-- <p> 🤩 Minha meta atual: <strong>be a Full Stack Developer</strong></p>
-- <p> 💪 Uma <strong>mente</strong> sã em um <strong>corpo</strong> são.</p>
-- <p> 🎻 Recentemente comecei a aprender <strong>violino</strong>.</p>
 <br/>
 
 ## 💻 Habilidades:
