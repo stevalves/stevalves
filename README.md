@@ -1,7 +1,7 @@
 <img width=100% src="https://res.cloudinary.com/dcaz5tcya/image/upload/v1691479187/dark_forest_wallpaper_mqni7n.gif"/>
 <img src="https://res.cloudinary.com/dcaz5tcya/image/upload/v1691478858/owl_drinking_coffee_jrwguq.gif" style="width: 240px;" align="right"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anek_Tamil&weight=500&size=28&pause=500&color=AE8989&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=550&lines=Welcome!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anek_Tamil&weight=500&size=28&pause=500&color=AE8989&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=1000&lines=Welcome!!!)](https://git.io/typing-svg)
 [![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ealves1710@gmail.com)
 [![](https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=blue)](mailto:ealves1710@hotmail.com)
 [![](https://img.shields.io/badge/-twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/stev_alves)
