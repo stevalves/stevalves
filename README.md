@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ealves1710@gmail.com)
 [![](https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=blue)](mailto:ealves1710@hotmail.com)
 [![](https://img.shields.io/badge/-twitter-%23333?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/stev_alves)
-[![](https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=anchor&logoColor=yellow)](https://twitter.com/stev_alves)
+[![](https://img.shields.io/badge/-portfolio-%23333?style=for-the-badge&logo=anchor&logoColor=yellow)](https://owl-tau.vercel.app/)
 [![](https://img.shields.io/badge/-linkedin-%23333?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/stevalves/)
 
 <br/>
