@@ -4,7 +4,8 @@
 
 - ✏️ Desenvolvedor Full Stack;
 - ✨ Trabalhando em alguns projetos próprios;
-- 👀 Procurando novas oportunidades;
+- 📖 Cursando Análise e Desenvolvimento de Sistemas;
+- 👀 Procurando novas oportunidades!
 
 ## Redes:
 [![](https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ealves1710@gmail.com)
