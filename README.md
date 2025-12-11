@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=281C02&height=60&section=header"/>
 
 # Estevão Santos
-> <a href="www.stevalves.me" target="_blank">Conhecer</a>
+> <a href="https://www.stevalves.me" target="_blank">Conhecer</a>
 
 ### Linguagens:
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
